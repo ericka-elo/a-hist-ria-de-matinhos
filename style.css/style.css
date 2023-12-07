@@ -3,16 +3,19 @@
 
 <body bgcolor="33cc33"></body>
 
-
+<h1> style="font-size: 60px;text-align: center;background: #339933;" </H1>
 
 P {
 
     text-align: center
 
     }
-    
-    body { background:#cccccc }
+
+    #Ericka { style="font-size:30px" }
+
+    body {
+        background:#cccccc }
 
    em strong {color: #339933; }
 
-   <h1> style="font-size: 60px;text-align: center;background: #339933;" </H1>
+
