@@ -8,4 +8,4 @@ P {
     
     body { background:#cccccc }
 
-    strong(color: red; )
+    strong {color: red; }
