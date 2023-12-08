@@ -1,30 +1,35 @@
 
+ body{
+    text-align: center;
+    margin-left: 40px;
+    color: #ffffff;
+}
 
-#stylesheet{ font-style: italic; text-decoration: blue;}
+header{
+    text-align: center;
+    font-family: "Arial"
+    color: rgb(36, 57, 128);
+    font-size: 85px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
-<body bgcolor="33cc33"></body>
+h2{
+    font-size: 45px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
-<h1> style="font-size: 60px;text-align: center;background: #339933;" </H1>
+p{
+    font-family: "Roboto";
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
 
-P {
-
-    text-align: center
-
-    }
-
-    #Ericka { style="font-size:30px" }
-
-    body {
-        background:#cccccc }
-
-   em strong {color: #339933; }
-
-   #img{
-
-    display:flex;
-    justify-content:center;
-    height:100%;
-    width:100%;
-   }
-
+img{
+    width: 1020px;
+}
 
