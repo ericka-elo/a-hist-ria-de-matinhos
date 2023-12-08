@@ -2,13 +2,13 @@
  body{
     text-align: center;
     margin-left: 40px;
-    color: 669999;
+    color: blanchedalmond;
 }
 
 header{
     text-align: center;
     font-family: "Arial"
-    color: rgb(36, 57, 128);
+    color: green;
     font-size: 85px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -23,7 +23,7 @@ h2{
 p{
     font-family: "Roboto";
     font-size: 21px;
-    color: #ffffff;
+    color: 339966;
     text-align: center;
     margin-right: 80px;
     margin-left: 80px;
