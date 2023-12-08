@@ -10,3 +10,37 @@
 <h1>A namoradinha do Paraná </h1>
 <h2>O que fazer em Matinhos?</h2>
 <p>Em Matinhos, por ser uma cidade pequena não temos muitas opções como shoppings, mas temos algo que muitos pagam para ter, que é nossa belissima PRAIA!!</p>
+
+body{
+    text-align: center;
+    margin-left: 40px;
+    color: #ffffff;
+}
+
+header{
+    text-align: center;
+    font-family: "Arial"
+    color: rgb(36, 57, 128);
+    font-size: 85px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2{
+    font-size: 45px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    font-family: "Roboto";
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+img{
+    width: 1020px;
+}
