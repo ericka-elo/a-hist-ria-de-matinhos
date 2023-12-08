@@ -27,7 +27,7 @@ body{
 header{
     text-align: center;
     font-family: "Arial"
-    color: rgb(36, 57, 128);
+    color: green;
     font-size: 90px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -42,7 +42,7 @@ h2{
 p{
     font-family: "Roboto";
     font-size: 21px;
-    color: #ffffff;
+    color: black;
     text-align: center;
     margin-right: 80px;
     margin-left: 80px;
