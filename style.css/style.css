@@ -18,4 +18,10 @@ P {
 
    em strong {color: #339933; }
 
+   #img{
+
+    display: flex;
+    justify-content: center;
+   }
+
 
